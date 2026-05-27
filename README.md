@@ -39,18 +39,7 @@ EDA · Data Visualization · Classification · Regression
 
 | Project | Description | Tools |
 |---|---|---|
-| [Border Crossing Analysis](link) | SQL analysis of 25 years of CBP federal border data | SQL, PostgreSQL |
 | [NBA Win Rate Prediction](link) | Proved defense outperforms offense using 10 seasons of data | Python, Statsmodels, Seaborn |
-| [Employee Attrition ML](link) | End-to-end classification pipeline predicting employee churn | Python, XGBoost, Scikit-learn |
-| [Federal Workforce Analysis](link) | R analysis of OPM workforce trends across federal agencies | R, tidyverse, ggplot2 |
-
----
-
-## Currently Learning
-
-- SQL — window functions, CTEs, LeetCode SQL 50
-- R — tidyverse, ggplot2
-- Machine Learning — Scikit-learn pipelines, model validation
 
 ---
 
