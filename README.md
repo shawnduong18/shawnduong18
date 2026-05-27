@@ -1,8 +1,7 @@
 # Hi, I'm Shawn Duong 👋
 
-BS Machine Learning — UC San Diego (June 2026)
-Undergraduate Data Researcher | Seeking Data Analyst & Data Scientist roles
-Based in San Diego, CA
+BS Machine Learning — UC San Diego (June 2026) | Seeking Data Analyst & Data Scientist roles
+Based in Westminster, CA
 
 ---
 
