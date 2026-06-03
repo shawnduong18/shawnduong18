@@ -10,7 +10,7 @@ Based in Westminster, CA
 I'm a Machine Learning student at UC San Diego with hands-on experience
 building data pipelines, statistical models, and classification systems.
 I'm passionate about applying data science to real-world problems in
-sports analytics, government, and beyond.
+sports analytics, government, and technology.
 
 Currently building out my project portfolio and actively seeking
 entry-level Data Analyst and Data Scientist roles.
