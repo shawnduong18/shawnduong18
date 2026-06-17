@@ -6,7 +6,7 @@ BS Machine Learning — UC San Diego (June 2026) | Seeking Data Analyst & Data S
 
 ## About Me
 
-I'm a Machine Learning student at UC San Diego with experience
+I'm a Machine Learning student graduated from UC San Diego with experience
 building data pipelines, statistical models, and classification systems.
 I'm passionate about applying data science to real-world problems in
 sports analytics, government, and technology.
