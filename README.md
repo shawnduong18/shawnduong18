@@ -9,14 +9,14 @@ Seeking **Data Analyst & Data Scientist roles** in Orange County, CA
 
 I'm a Machine Learning graduate from UC San Diego with hands-on experience building data pipelines, statistical models, and classification systems. I'm passionate about applying data science to solve real-world problems in sports analytics, government, and technology.
 
-Currently building a portfolio of end-to-end data science projects and actively seeking entry-level Data Analyst and Data Scientist roles.
+Currently building a portfolio of end-to-end data science projects and actively seeking entry-level Data Analyst, Data Science, or Machine learning Roles.
 
 ---
 
-## 🛠 Skills
+## Skills
 
 **Languages**  
-Python · SQL · R · Java
+Python · SQL · R 
 
 **Data & ML Libraries**  
 Pandas · NumPy · Scikit-learn · Statsmodels · PyTorch · TensorFlow
@@ -29,7 +29,7 @@ Machine Learning (Classification, Regression, Clustering) · Statistical Modelin
 
 ---
 
-## 📊 Projects
+## Projects
 
 ### 1. **UCSD Campus Parking Occupancy Prediction Dashboard**
 Deployed a production system predicting parking availability across 43 campus lots serving 10,000+ daily users.
@@ -95,13 +95,13 @@ Analyzed 10 seasons of NBA data to determine which factors (offense vs. defense)
 
 **ITS Service Desk Technician** — UC San Diego  
 *Sept 2025 – June 2026 | 20 hours/week*
-- Supported 70,000+ UCSD affiliates with 60% first-contact resolution rate
+- Supported 30,000+ UCSD affiliates with 60% first-contact resolution rate
 - Logged and analyzed incident data in ServiceNow to identify technical trends
 - Escalated critical network outages to infrastructure teams
 
 ---
 
-## 📈 What I'm Looking For
+## What I'm Looking For
 
 **Ideal Role:**
 - Entry-level Data Analyst or Data Scientist
@@ -110,7 +110,7 @@ Analyzed 10 seasons of NBA data to determine which factors (offense vs. defense)
 - Industry: Open to sports, government, technology, healthcare
 
 **Interested in:**
-- Federal government analytics (GS-07/09)
+- Federal government analytics
 - Sports analytics (MLB, NBA organizations)
 - Data-driven business analytics
 
