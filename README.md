@@ -11,8 +11,6 @@ I'm a Machine Learning graduate from UC San Diego with hands-on experience build
 
 Currently building a portfolio of end-to-end data science projects and actively seeking entry-level Data Analyst, Data Science, or Machine learning Roles.
 
-## 🔗 Connect With Me
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-shawnduong-blue?style=flat&logo=linkedin)](https://linkedin.com/in/shawn-duong18)
 [![Email](https://img.shields.io/badge/Email-shawnduong18%40gmail.com-red?style=flat&logo=gmail)](mailto:shawnduong18@gmail.com)
 [![Resume](https://img.shields.io/badge/Resume-PDF-green?style=flat&logo=adobe)](https://drive.google.com/file/d/137NhtpN6QUE_V_g5lzXAQ1IEsCqiy_dl/view)
